@@ -1,2 +1,2 @@
 # PatikaDaire
- arıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan program
+ Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan program
